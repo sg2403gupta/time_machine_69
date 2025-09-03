@@ -14,7 +14,7 @@ const StyleButton = styled.button`
   }
 `;
 function Button({ onClick }) {
-  return <StyleButton onClick={onClick}>Click Me</StyleButton>;
+  return <StyleButton onClick={onClick}>Travel</StyleButton>;
 }
 
 export default Button;

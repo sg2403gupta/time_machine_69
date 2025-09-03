@@ -59,7 +59,7 @@ Error generating stack: `+a.message+`
   &:hover {
     background-color: #0055ff;
   }
-`;function Gv({onClick:c}){return Jt.jsx(Cv,{onClick:c,children:"Click Me"})}const Rd=Ra.div`
+`;function Gv({onClick:c}){return Jt.jsx(Cv,{onClick:c,children:"Travel"})}const Rd=Ra.div`
   display: flex;
   flex-direction: row;
   justify-content: center;
